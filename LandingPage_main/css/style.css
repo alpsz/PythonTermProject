@@ -782,7 +782,7 @@ a:hover, a:focus, a:active {
 }
 
 .btn {
-  border-radius: 8px;
+  border-radius: 0;
   font-size: 16px;
   padding: 10px 40px;
 }
