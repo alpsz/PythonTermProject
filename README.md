@@ -39,3 +39,11 @@ The dataset has 14 attributes:
 * **thal:** thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect).
 
 * **target:** heart disease (0 = no, 1 = yes)
+
+
+## File Descriptions 
+
+- `LandingPage/index.html`: Landing Page of the project.
+- `admin/register.html`: Registration page for users. 
+- `admin/login.html`: Login page for registered users. 
+- `admin/forgot-password.html`: Forgot password request page.
